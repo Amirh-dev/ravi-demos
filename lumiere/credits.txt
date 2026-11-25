@@ -1,0 +1,52 @@
+Lumière Beauty Studio: demo website by Ravi Studio
+Lumière is a fictional business. All photos are from Pexels and used under the Pexels License
+(free for commercial use, attribution not required but given here): https://www.pexels.com/license/
+Photos were resized, cropped and converted to WebP. One photo (gallery-room) had printed text blurred.
+
+img/hero-facial.webp, img/hero-facial-600.webp
+  Photo by DΛVΞ GΛRCIΛ (https://www.pexels.com/@davegarcia/)
+  https://www.pexels.com/photo/relaxing-spa-facial-treatment-session-37229301/
+
+img/brows.webp
+  Photo by Antoni Shkraba (https://www.pexels.com/@shkrabaanthony/)
+  https://www.pexels.com/photo/person-plucking-woman-s-eyebrow-5178009/
+
+img/lashes.webp
+  Photo by Milangel Melendez (https://www.pexels.com/@milangel-melendez-1162121836/)
+  https://www.pexels.com/photo/close-up-of-an-eye-with-glued-eyelashes-21412169/
+
+img/nails.webp
+  Photo by Melih Can (https://www.pexels.com/@papaz/)
+  https://www.pexels.com/photo/manicure-on-woman-hands-17280274/
+
+img/facials.webp
+  Photo by Taiye Salawu (https://www.pexels.com/@taiyesalawu/)
+  https://www.pexels.com/photo/relaxing-facial-treatment-in-abuja-spa-36436447/
+
+img/waxing.webp
+  Photo by Tima Miroshnichenko (https://www.pexels.com/@tima-miroshnichenko/)
+  https://www.pexels.com/photo/woman-doing-depilation-on-leg-with-wax-strip-6763618/
+
+img/gallery-calm.webp
+  Photo by Valeria Boltneva (https://www.pexels.com/@valeriya/)
+  https://www.pexels.com/photo/woman-with-closed-eyes-holding-her-shoulder-1204506/
+
+img/gallery-lashes.webp
+  Photo by Louix Hunter (https://www.pexels.com/@louix-hunter-2155276294/)
+  https://www.pexels.com/photo/close-up-beauty-treatment-lash-extension-procedure-33637609/
+
+img/gallery-wax.webp
+  Photo by Irina P (https://www.pexels.com/@irina-p-225422935/)
+  https://www.pexels.com/photo/pink-hard-wax-beads-for-hair-removal-15577126/
+
+img/gallery-room.webp
+  Photo by Max Vakhtbovych (https://www.pexels.com/@artbovich/)
+  https://www.pexels.com/photo/modern-cosmetology-office-with-couch-under-light-lamp-6899549/
+
+img/about-towel.webp
+  Photo by Marine Fougère (https://www.pexels.com/@marine-fougere-2159237528/)
+  https://www.pexels.com/photo/cozy-spa-massage-table-with-candle-and-decor-35884499/
+
+Fonts (self-hosted, latin subset, SIL Open Font License 1.1, see fonts/OFL-*.txt)
+  Fraunces by Undercase Type: https://github.com/undercasetype/Fraunces
+  Jost by Indestructible Type: https://github.com/indestructible-type/Jost
